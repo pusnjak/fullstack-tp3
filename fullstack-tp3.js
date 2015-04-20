@@ -1,5 +1,5 @@
 var salida = salida0 = salida1 = salida2 = "";
-var numero = 100;
+var numero = 45530;
 for (i=1; i*i<=numero; i++) { 
     if (numero % i === 0) {
         salida1 = salida1 + String(i) + ", ";
